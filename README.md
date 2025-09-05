@@ -52,10 +52,6 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=devlou-rens&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=devlou-rens&icon=2&color=7"/>
-</p>
-
 <h3 align="center">🌐 Socials</h3>
 <p align="center">
   <a href="https://facebook.com/lourens.gacias.18"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
