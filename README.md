@@ -30,7 +30,8 @@
 <br>
 
 
-<h3 align="center"> <img src="https://camo.githubusercontent.com/792339729babf55…352426451584f444a5343455249722f67697068792e676966">Tech Stack</h3>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
