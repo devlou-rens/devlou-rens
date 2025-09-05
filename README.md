@@ -3,7 +3,7 @@
 </p>
 <h2 align="center">Hello Bro, I’m Lourens</h2>
 
-<p align= "center">💻 Web Dev Learner | Building Projects </p>
+<p align= "center">💻 Web Dev Learner | Future Full-stack Developer</p>
 <h2> About Me</h2>
 <img align="right" src="https://media1.tenor.com/m/VEqKprzw7yAAAAAC/pink-cyber.gif" width="250"/>
 
