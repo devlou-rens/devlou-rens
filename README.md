@@ -2,9 +2,12 @@
   <img src="https://media1.tenor.com/m/_zbsJOBoVOEAAAAC/banner.gif" alt="Banner" height="200" width="600"/>
 </p>
 
-<p align="center"
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&duration=3000&pause=1000&color=9D4CFF&background=3AFF7300&width=545&height=65&lines=%3C%2F%3EHello+Bro!+I'm+Lourens%3C%2F%3E" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&duration=3000&pause=1000&color=9D4CFF&background=3AFF7300&width=545&height=65&lines=%3C%2F%3EHello+Bro!+I'm+Lourens%3C%2F%3E" alt="Typing SVG" />
+  </a>
 </p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
 </p>
