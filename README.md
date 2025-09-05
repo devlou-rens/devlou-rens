@@ -4,19 +4,25 @@
 <p align="center"
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=A525BB&background=3AFF7300&width=435&lines=%E2%9C%A8Hello+Bro%2C+I'm+Lourens%E2%9C%A8" alt="Typing SVG" /></a>
 </p>
-<p align= "center">💻 Web Dev Learner | Future Full-stack Developer</p>
-<h2> About Me</h2>
+<p align= "center">Aspiring Full-stack Developer | Coding & growing</p>
+
+<div align="center">
+<h3><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWxicXQ2ZHN4eDE5bWtmeDRqbTR0bzdkNnJnM3JmaXc5bDA2aTNnciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/HvekzBaREHxlEwvlOS/giphy.gif" width="30">Tech Stack</h3> 
+</div>
 <img align="right" src="https://media1.tenor.com/m/VEqKprzw7yAAAAAC/pink-cyber.gif" width="250"/>
 
-🎓 Computer Science student at Sorsogon State University<br>
-<br>
-⚡ Currently Learning Web Dev & Python <br>
-<br>
-🎯 Balancing code, coffee, and student life <br>
-<br>
+🎓 Computer Science Student at Sorsogon State University <br><br>
+⚡ Currently Learning Web Development & Python <br><br>
+🎯 Balancing code, coffee, and student life <br><br>
+🌱 Exploring Full-Stack Development (Frontend + Backend) <br><br>
+🛠️ Familiar with HTML, CSS, JavaScript, Python, MySQL <br><br>
+🌐 Interested in Open Source, Tech Communities, and Freelancing <br><br>
+🎨 I also enjoy designing with Canva, Figma and Video Editor <br><br>
+🚀 Goal: To become a Full-Stack Developer and build impactful projects <br>
 
 
 
+
 <br>
 <br>
 <br>
@@ -30,7 +36,9 @@
 <br>
 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNsNzk5OW1ucGxzaDd5aWwxdXlobzd1MTJ5bmtoeGl1MG5wcWFmZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VEzBzSyEOKtXGuPIQw/giphy.gif" width="30"> Tech Stack
+<div align="center">
+<h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFpaGozaGI2YjF2b3oyOGNncHJnOW92bTd3Mzlicjh0ZGhvaXQwZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30">Tech Stack</h3> 
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
