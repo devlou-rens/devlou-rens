@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://preview.redd.it/1asyzovvrn8a1.gif?width=1200&format=mp4&s=1ee67863965bdfadfc3210bf11b2e4362b82feba" alt="Banner" width="600"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTg2NHI1bW91cDE2cGNjeDh4bTZ0ZnFvMjU2OHVveG13dWk4amd2MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif" alt="Banner" width="600"/>
 </p>
 <h2 align="center"> Hello Bro, I’m Lourens</h2>
 
