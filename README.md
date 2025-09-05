@@ -73,7 +73,9 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=devlou-rens&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
 </p>
 
-<h3 align="center">🌐 Socials</h3>
+<div align="center">
+<h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJzMW14b3UzNGtxNXdpNzZmYTRwejZkMnpwMjRpa3RlbmIxMDQwZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/rmjq16i0UjxDHwZ0bg/giphy.gif" width="30">Tech Stack</h3> 
+</div>
 <p align="center">
   <a href="https://facebook.com/lourens.gacias.18"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
   <a href="https://instagram.com/lou_rrens"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
