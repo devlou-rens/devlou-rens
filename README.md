@@ -7,7 +7,7 @@
 <h2> About Me</h2>
 <img align="right" src="https://media1.tenor.com/m/VEqKprzw7yAAAAAC/pink-cyber.gif" width="250"/>
 
-🎓 Computer Science student, always learning<br>
+🎓 Computer Science student at Sorsogon State University<br>
 <br>
 ⚡ Currently Learning Web Dev & Python <br>
 <br>
