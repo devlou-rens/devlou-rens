@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.reddit.com/r/gifs/comments/zxcllg/futuristic_city_made_in_pixel_art/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" alt="Banner" width="600"/>
+  <img src="https://preview.redd.it/1asyzovvrn8a1.gif?width=1200&format=mp4&s=1ee67863965bdfadfc3210bf11b2e4362b82feba" alt="Banner" width="600"/>
 </p>
 <h2 align="center"> Hello Bro, I’m Lourens</h2>
 
