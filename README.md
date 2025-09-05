@@ -30,7 +30,7 @@
 <br>
 
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Tech Stack
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNsNzk5OW1ucGxzaDd5aWwxdXlobzd1MTJ5bmtoeGl1MG5wcWFmZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VEzBzSyEOKtXGuPIQw/giphy.gif" width="30"> Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
