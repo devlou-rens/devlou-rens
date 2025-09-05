@@ -7,12 +7,17 @@
 <h2> About Me</h2>
 <img align="right" src="https://media1.tenor.com/m/VEqKprzw7yAAAAAC/pink-cyber.gif" width="250"/>
 🎓 Computer Science student, always learning <br>
+
 ⚡ Currently Learning Web Dev & Python <br>
+
 🎯 Balancing code, coffee, and student life <br>
 
 
 
-
+<br>
+<br>
+<br>
+<br>
 <h1 align="center">💻 Tech Stack</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
