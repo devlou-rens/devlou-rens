@@ -1,17 +1,14 @@
 <p align="center">
-  <img src="https://tenor.com/8BHDUYHMt6.gif" alt="Banner" width="600"/>
+  <img src="https://www.reddit.com/r/gifs/comments/zxcllg/futuristic_city_made_in_pixel_art/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" alt="Banner" width="600"/>
 </p>
 <h2 align="center"> Hello Bro, I’m Lourens</h2>
 
 <p align= "center">💻 Web Dev Learner | Building Projects </p>
-<p align = "center">💫 About Me:
+<p align = "center">💫 About Me:<br>
 -🎓 Computer Science student, always learning <br>
 - ⚡Currently Learning Web Dev & Python <br>
 -🎯 Balancing code, coffee, and student life  <br></p>
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lourens.gacias.18) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lou_rrens) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lourensgacias00@gmail.com) 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -28,6 +25,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=devlou-rens&icon=2&color=7)](https://visitcount.itsvg.in)
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lourens.gacias.18) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lou_rrens) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lourensgacias00@gmail.com) 
 
  ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lourensgacias00@gmail.com)
