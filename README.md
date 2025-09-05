@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/_zbsJOBoVOEAAAAC/banner.gif" alt="Banner" height="200" width="600"/>
 </p>
-<h2 align="center">Hello Bro, I’m Lourens</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=A525BB&background=3AFF7300&width=435&lines=%E2%9C%A8Hello+Bro%2C+I'm+Lourens%E2%9C%A8" alt="Typing SVG" /></a>
 
 <p align= "center">💻 Web Dev Learner | Future Full-stack Developer</p>
 <h2> About Me</h2>
