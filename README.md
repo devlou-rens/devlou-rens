@@ -4,7 +4,7 @@
 <h2 align="center"> Hello Bro, I’m Lourens</h2>
 
 <p align= "center">💻 Web Dev Learner | Building Projects </p>
-# 💫 About Me:
+<p align = "center">💫 About Me:
 -🎓 Computer Science student, always learning <br>- ⚡Currently Learning Web Dev & Python  <br>-🎯 Balancing code, coffee, and student life  <br>
 
 
@@ -28,7 +28,7 @@
 [![](https://visitcount.itsvg.in/api?id=devlou-rens&icon=2&color=7)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lourensgacias00@gmail.com) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lourensgacias00@gmail.com) </p>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
