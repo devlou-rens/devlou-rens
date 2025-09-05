@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/>
 </p>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNsNzk5OW1ucGxzaDd5aWwxdXlobzd1MTJ5bmtoeGl1MG5wcWFmZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VEzBzSyEOKtXGuPIQw/giphy.gif" width="30"><h3> GitHub Stats</h3>
+<h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNsNzk5OW1ucGxzaDd5aWwxdXlobzd1MTJ5bmtoeGl1MG5wcWFmZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VEzBzSyEOKtXGuPIQw/giphy.gif" width="30">GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devlou-rens&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=devlou-rens&theme=radical&hide_border=false"/><br/>
