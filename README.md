@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="2">
 </p>
-<img align="right" src="https://media1.tenor.com/m/VEqKprzw7yAAAAAC/pink-cyber.gif" width="250" height="100"/>
+<img align="right" src="https://media1.tenor.com/m/VEqKprzw7yAAAAAC/pink-cyber.gif" width="250"/>
 
 🎓 Computer Science Student at Sorsogon State University <br><br>
 ⚡ Currently Learning Web Development & Python <br><br>
