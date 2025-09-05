@@ -1,4 +1,6 @@
-![Banner](https://your-image-link.com/banner.png)
+<p align="center">
+  <img src="https://ph.pinterest.com/pin/200973202116605529/" alt="Banner" width="600"/>
+</p>
 
 ## Hello Bro, I’m Lourens 
 💻 CS Student | Web Dev Learner | Building Projects
