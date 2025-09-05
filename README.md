@@ -1,13 +1,24 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/_zbsJOBoVOEAAAAC/banner.gif" alt="Banner" height="200" width="600"/>
 </p>
-<h2 align="center"> Hello Bro, I’m Lourens</h2>
+<h2 align="center"></>Hello Bro, I’m Lourens</></h2>
 
 <p align= "center">💻 Web Dev Learner | Building Projects </p>
-<p align = "center">💫 About Me:<br>
--🎓 Computer Science student, always learning <br>
-- ⚡Currently Learning Web Dev & Python <br>
--🎯 Balancing code, coffee, and student life  <br></p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h2>About Me<</h2>
+        🎓 Computer Science student, always learning <br>
+        ⚡ Currently Learning Web Dev & Python <br>
+        🎯 Balancing code, coffee, and student life <br>
+      </td>
+      <td>
+        <img src="https://media1.tenor.com/m/VEqKprzw7yAAAAAC/pink-cyber.gif" width="250"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 <h1 align="center">💻 Tech Stack</h1>
