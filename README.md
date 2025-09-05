@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ph.pinterest.com/pin/200973202116605529/" alt="Banner" width="600"/>
+  <img src="https://pin.it/6094FJKaH" alt="Banner" width="600"/>
 </p>
 
 ## Hello Bro, I’m Lourens 
