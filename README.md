@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/bQh2q.gif" alt="Banner" height="744" width="162"/>
+  <img src="https://media1.tenor.com/m/_zbsJOBoVOEAAAAC/banner.gif" alt="Banner" height="744" width="162"/>
 </p>
 <h2 align="center"> Hello Bro, I’m Lourens</h2>
 
