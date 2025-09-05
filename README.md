@@ -10,7 +10,8 @@
 </p>
 
 <h2 align="center">
-  Aspiring Full-stack Developer | Coding & Growing 🚀
+   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3AycGN2cHd2dXI4MjlhajM5emp3bjJsdXk4N2E3dmZhb2ZpaHN1bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="60" alt="Coding GIF" />
+  Aspiring Full-stack Developer | Coding & Growing
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3AycGN2cHd2dXI4MjlhajM5emp3bjJsdXk4N2E3dmZhb2ZpaHN1bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="60" alt="Coding GIF" />
 </h2>
 
