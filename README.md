@@ -1,16 +1,15 @@
 <p align="center">
   <img src="https://pin.it/6094FJKaH" alt="Banner" width="600"/>
 </p>
+<h2 align="center"> ## Hello Bro, I’m Lourens</h2>
 
-## Hello Bro, I’m Lourens 
 💻 CS Student | Web Dev Learner | Building Projects
 
-# 💫 About Me:
+
+💫 About Me:
 -🎓 Computer Science student, always learning <br>- ⚡Currently Learning Web Dev & Python  <br>-🎯 Balancing code, coffee, and student life  <br>
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lourens.gacias.18) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lou_rrens) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lourensgacias00@gmail.com) 
+ 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -27,6 +26,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=devlou-rens&icon=2&color=7)](https://visitcount.itsvg.in)
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lourens.gacias.18) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lou_rrens) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lourensgacias00@gmail.com) 
+
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lourensgacias00@gmail.com) 
