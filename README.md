@@ -37,7 +37,10 @@
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFpaGozaGI2YjF2b3oyOGNncHJnOW92bTd3Mzlicjh0ZGhvaXQwZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30">Tech Stack</h3> 
+  <h3>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFpaGozaGI2YjF2b3oyOGNncHJnOW92bTd3Mzlicjh0ZGhvaXQwZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30" style="vertical-align: middle; margin-right: 8px;">
+    Tech Stack
+  </h3>
 </div>
 
 <p align="center">
