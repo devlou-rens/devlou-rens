@@ -39,7 +39,7 @@
 🌱 Exploring Full-Stack Development (Frontend + Backend) <br><br>
 🛠️ Familiar with HTML, CSS, JavaScript, Python, MySQL <br><br>
 🌐 Interested in Open Source, Tech Communities, and Freelancing <br><br>
-🎨 I also enjoy designing with Canva, Figma and Video Editor <br><br>
+🎨 I also enjoy designing with Canva, Figma and also I'm a Video Editor <br><br>
 🚀 Goal: To become a Full-Stack Developer and build impactful projects <br>
 <br>
 <br>
