@@ -12,11 +12,11 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
 </p>
 
-<h2 align="center">
+<h1 align="center">
    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3AycGN2cHd2dXI4MjlhajM5emp3bjJsdXk4N2E3dmZhb2ZpaHN1bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="60" alt="Coding GIF" />
   Aspiring Full-stack Developer | Coding & Growing
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3AycGN2cHd2dXI4MjlhajM5emp3bjJsdXk4N2E3dmZhb2ZpaHN1bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="60" alt="Coding GIF" />
-</h2>
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devlou-rens&label=Profile%20views&color=800080&style=for-the-badge" alt="Profile views" />
@@ -25,7 +25,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
 </p> 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWtmcjhpY3g5eWV2MWt3Y2U1Y2tvNDJqd3ozYWNubmlhbml4MTB5bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif" width="30">About Me</h3> 
+<h2><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWtmcjhpY3g5eWV2MWt3Y2U1Y2tvNDJqd3ozYWNubmlhbml4MTB5bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif" width="30">About Me</h2> 
 </div>
 
 <p align="center">
@@ -40,7 +40,7 @@
 🛠️ Familiar with HTML, CSS, JavaScript, Python, MySQL <br><br>
 🌐 Interested in Open Source, Tech Communities, and Freelancing <br><br>
 🎨 I also enjoy designing with Canva, Figma and also I'm a Video Editor <br><br>
-🚀 Goal: To become a <em>Full-Stack Developer</e> and build impactful projects <br>
+🚀 Goal: To become a <em>Full-Stack Developer</em> and build impactful projects <br>
 <br>
 <br>
 
@@ -49,10 +49,10 @@
 </p>
 
 <div align="center">
-  <h3>
+  <h2>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFpaGozaGI2YjF2b3oyOGNncHJnOW92bTd3Mzlicjh0ZGhvaXQwZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30" style="vertical-align: middle; margin-right: 8px;">
     Tech Stack
-  </h3>
+  </h2>
 </div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -69,7 +69,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
 </p>
 <div align="center">
-<h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNsNzk5OW1ucGxzaDd5aWwxdXlobzd1MTJ5bmtoeGl1MG5wcWFmZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VEzBzSyEOKtXGuPIQw/giphy.gif" width="30">GitHub Stats</h3> 
+<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNsNzk5OW1ucGxzaDd5aWwxdXlobzd1MTJ5bmtoeGl1MG5wcWFmZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VEzBzSyEOKtXGuPIQw/giphy.gif" width="30">GitHub Stats</h2> 
 </div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devlou-rens&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/><br/>
@@ -86,14 +86,14 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
 </p>
-<h3 align="center">🏆 GitHub Trophies</h3>
+<h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=devlou-rens&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
 </p>
-<h3 align="center">🔝 Top Contributed Repo</h3>
+<h2 align="center">🔝 Top Contributed Repo</h2>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=devlou-rens&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
 </p>
@@ -101,7 +101,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
 </p>
 <div align="center">
-<h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJzMW14b3UzNGtxNXdpNzZmYTRwejZkMnpwMjRpa3RlbmIxMDQwZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/rmjq16i0UjxDHwZ0bg/giphy.gif" width="30" height="30">Connect With Me</h3> 
+<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJzMW14b3UzNGtxNXdpNzZmYTRwejZkMnpwMjRpa3RlbmIxMDQwZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/rmjq16i0UjxDHwZ0bg/giphy.gif" width="30" height="30">Connect With Me</h2> 
 </div>
 <p align="center">
   <a href="https://facebook.com/lourens.gacias.18"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
@@ -112,7 +112,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
 </p>
 </p>
-<h3 align="center">💰 You can help me by Donating</h3>
+<h2 align="center">💰 You can help me by Donating</h2>
 <p align="center">
   <a href="https://paypal.me/lourensgacias00@gmail.com"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
 </p>
