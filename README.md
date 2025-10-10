@@ -37,7 +37,7 @@
 ⚡ Currently Learning Web Development & Python <br><br>
 🎯 Balancing code, coffee, and student life <br><br>
 🌱 Exploring Full-Stack Development (Frontend + Backend) <br><br>
-🛠️ Familiar with HTML, CSS, JavaScript, Python, MySQL <br><br>
+🛠️ Familiar with HTML, CSS, Python, MySQL <br><br>
 🌐 Interested in Open Source, Tech Communities, and Freelancing <br><br>
 🎨 I also enjoy designing with Canva, Figma, and also I'm a Video Editor <br><br>
 🚀 Goal: To become a <em>Full-Stack Developer</em> and build impactful projects <br>
