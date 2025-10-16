@@ -73,7 +73,7 @@
 </div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devlou-rens&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlou-rens&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=devlou-rens&theme=radical&hide_border=false"/><br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlou-rens&theme=radical&layout=compact&v=5"/>
 
 </p>
