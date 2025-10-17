@@ -113,7 +113,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
 </p>
 </p>
-<h2 align="center">💰 You can help me by Donating</h2>
+<h2 align="center">💰 Buy me a Coffee</h2>
 <p align="center">
   <a href="https://paypal.me/lourensgacias00@gmail.com"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
 </p>
