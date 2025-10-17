@@ -102,7 +102,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
 </p>
 <div align="center">
-<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJzMW14b3UzNGtxNXdpNzZmYTRwejZkMnpwMjRpa3RlbmIxMDQwZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/rmjq16i0UjxDHwZ0bg/giphy.gif" width="30" height="30">Connect With Me</h2> 
+<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJzMW14b3UzNGtxNXdpNzZmYTRwejZkMnpwMjRpa3RlbmIxMDQwZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/rmjq16i0UjxDHwZ0bg/giphy.gif" width="50" height="50">Connect With Me</h2> 
 </div>
 <p align="center">
   <a href="https://facebook.com/lourens.gacias.18"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
@@ -114,7 +114,7 @@
 </p>
 </p>
 <h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmpwcWduMGljMjkzOWpxMTRpa3F6NzIzbGkzNndoMWpxc3hzc3F2ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZDNQdzCUjIK9VNUE2c/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmpwcWduMGljMjkzOWpxMTRpa3F6NzIzbGkzNndoMWpxc3hzc3F2ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZDNQdzCUjIK9VNUE2c/giphy.gif" width="50">
   Buy me a Coffee</h2>
 <p align="center">
   <a href="https://paypal.me/lourensgacias00@gmail.com"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
