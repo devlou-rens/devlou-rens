@@ -114,7 +114,7 @@
 </p>
 </p>
 <h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmpwcWduMGljMjkzOWpxMTRpa3F6NzIzbGkzNndoMWpxc3hzc3F2ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZDNQdzCUjIK9VNUE2c/giphy.gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmpwcWduMGljMjkzOWpxMTRpa3F6NzIzbGkzNndoMWpxc3hzc3F2ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZDNQdzCUjIK9VNUE2c/giphy.gif" width="30">
   Buy me a Coffee</h2>
 <p align="center">
   <a href="https://paypal.me/lourensgacias00@gmail.com"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
