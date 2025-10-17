@@ -45,12 +45,12 @@
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="30" height="30">
 </p>
 
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFpaGozaGI2YjF2b3oyOGNncHJnOW92bTd3Mzlicjh0ZGhvaXQwZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" wwidth="30" style="vertical-align: middle; margin-right: 8px;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFpaGozaGI2YjF2b3oyOGNncHJnOW92bTd3Mzlicjh0ZGhvaXQwZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" wwidth="60" style="vertical-align: middle; margin-right: 8px;">
     Tech Stack
   </h2>
 </div>
