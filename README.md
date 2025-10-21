@@ -56,7 +56,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,mysql,figma,canva" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,mysql,figma" />
   </a>
 </p>
 <p align="center">
