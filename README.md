@@ -64,7 +64,7 @@
 </p>
 <div align="center">
   <h2>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVuaXZzandsM2xwZHV2bTg4anE1Z2Nnbnpqdm8ycmhiaHEzcmgzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IMDUAPmghzu2bxNY2K/giphy.gif" width="30" style="vertical-align: middle; margin-right: 8px;">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVuaXZzandsM2xwZHV2bTg4anE1Z2Nnbnpqdm8ycmhiaHEzcmgzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IMDUAPmghzu2bxNY2K/giphy.gif" width="30">
     Actively Learning
   </h2>
 </div>
