@@ -97,7 +97,7 @@
 </p>
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devlou-rens&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=devlou-rens&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
