@@ -97,9 +97,7 @@
 </p>
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-  
- ![Trophies](https://github-profile-trophy.vercel.app/?username=devlou-rens&theme=radical")
- 
+  <img src="https://github-profile-trophy.vercel.app/?username=devlou-rens&theme=radical" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
