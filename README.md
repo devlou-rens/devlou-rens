@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://c.tenor.com/_zbsJOBoVOEAAAAC/tenor.gif" alt="Banner" height="200" width="600"/>
-</p>
+</p> 
 
 <p align="center">
   <a href="https://git.io/typing-svg">
