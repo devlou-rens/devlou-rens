@@ -83,7 +83,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devlou-rens&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=devlou-rens&theme=radical&hide_border=false"/><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlou-rens&theme=radical&layout=compact&count_private=true&v=5"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlou-rens&theme=radical&layout=compact&count_private=true&v=6"/>
 </p>
   <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
