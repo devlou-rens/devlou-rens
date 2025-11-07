@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://c.tenor.com/_zbsJOBoVOEAAAAC/tenor.gif" alt="Banner" height="200" width="600"/>
 </p>
-         
+          
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&size=29&duration=3000&pause=1000&color=9D4CFF&background=3AFF7300&width=545&height=65&lines=%3C%2F%3EHello+Bro!+I'm+Lourens%3C%2F%3E" alt="Typing SVG" />
