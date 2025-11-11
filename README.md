@@ -3,10 +3,9 @@
 </p>  
     
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=E404F7&width=435&lines=Hello+everybody%2C+I'm+Lourens" alt="Typing SVG" /></a>
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=E404F7&width=435&lines=Hello+everybody%2C+I'm+Lourens" alt="Typing SVG" /></a>
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
