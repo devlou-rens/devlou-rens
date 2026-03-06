@@ -86,7 +86,7 @@
 
 <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=devlou-rens&theme=radical&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA" width="100%" alt="Trophy" align="middle"/><br>
- <img src="https://streak-stats.demolab.com?user=devlou-rens&theme=radical" width="49%" alt="streaks graph" />
+   <img src="https://streak-stats.demolab.com?user=devlou-rens&theme=radical" width="49%" alt="streaks graph" />
   <img src="https://github-readme-stats-umber-kappa.vercel.app/api?username=devlou-rens&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
 </p>
 <div>
@@ -95,7 +95,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devlou-rens&custom_title=devlou-rens%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="devlou-rens's Github Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devlou-rens&custom_title=devlou-rens'%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="devlou-rens's Github Activity Graph" width="100%">
 </div>
 
 <!--<p align="center">
