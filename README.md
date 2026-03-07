@@ -83,7 +83,6 @@
 
 <div align="center">
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNsNzk5OW1ucGxzaDd5aWwxdXlobzd1MTJ5bmtoeGl1MG5wcWFmZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VEzBzSyEOKtXGuPIQw/giphy.gif" width="30">GitHub Stats</h2> 
-
 <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=devlou-rens&theme=radical&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA" width="100%" alt="Trophy" align="middle"/><br>
    <img src="https://streak-stats.demolab.com?user=devlou-rens&theme=radical" width="49%" alt="streaks graph" />
@@ -93,7 +92,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" alt="Separator gif" width="100%" height="30">
 </p>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devlou-rens&custom_title=devlou-rens'%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="devlou-rens's Github Activity Graph" width="100%">
 </div>
@@ -110,6 +108,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
 </p>
+
 <h2 align="center">🔝 Top Contributed Repo</h2>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=devlou-rens&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
