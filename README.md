@@ -86,6 +86,7 @@
 <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=devlou-rens&theme=radical&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA" width="100%" alt="Trophy" align="middle"/><br>
    <img src="https://streak-stats.demolab.com?user=devlou-rens&theme=radical&cache_seconds=1800" width="49%" alt="streaks graph" />
+   <img src="https://nirzak-streak-stats.vercel.app/?user=devlou-rens&theme=radical&hide_border=false"/><br/><br/>
   <img src="https://github-readme-stats-jet-one-69.vercel.app/api?username=devlou-rens&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="49%" />
 </p>
 <div>
