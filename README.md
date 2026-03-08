@@ -85,7 +85,7 @@
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNsNzk5OW1ucGxzaDd5aWwxdXlobzd1MTJ5bmtoeGl1MG5wcWFmZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VEzBzSyEOKtXGuPIQw/giphy.gif" width="30">GitHub Stats</h2> 
 <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=devlou-rens&theme=radical&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA" width="100%" alt="Trophy" align="middle"/><br>
-   <img src="https://github-readme-stats.vercel.app/api?username=devlou-rens&count_private=true&show_icons=true&cache_seconds=1800&theme=radical" width="49%" alt="stats graph" />
+   <img src="https://streak-stats.demolab.com?user=devlou-rens&theme=radical&cache_seconds=1800&count_private=true" width="49%" alt="streaks graph" />
   <img src="https://github-readme-stats-umber-kappa.vercel.app/api?username=devlou-rens&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
 </p>
 <div>
