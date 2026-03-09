@@ -95,8 +95,9 @@
 </p>
 
 <div align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devlou-rens&theme=radical&hide_border=true&area=true" alt="devlou-rens' Github Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devlou-rens&custom_title=devlou-rens'%theme=radical&bg_color=141321&color=A9FEF7&title_color=FE428E&area=true" alt="devlou-rens' Github Activity Graph" width="100%">
 </div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devlou-rens&theme=radical&hide_border=true&area=true" alt="devlou-rens' Github Activity Graph" width="100%">
 
 
 <!--<p align="center">
