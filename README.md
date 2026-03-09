@@ -89,7 +89,7 @@
   <img src="https://github-readme-stats-jet-one-69.vercel.app/api?username=devlou-rens&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="49%" />
 </p>
 <div>
-
+ 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" alt="Separator gif" width="100%" height="30">
 </p>
