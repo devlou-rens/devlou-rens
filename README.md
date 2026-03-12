@@ -108,17 +108,17 @@
 </p>-->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" alt="Separator gif" width="100%" height="30">
 </p>
 
-<h2 align="center">🔝 Top Contributed Repo</h2>
+<!--<h2 align="center">🔝 Top Contributed Repo</h2>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=devlou-rens&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" alt="Separator gif" width="100%" height="30">
-</p>
+</p> -->
 
 <div align="center">
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJzMW14b3UzNGtxNXdpNzZmYTRwejZkMnpwMjRpa3RlbmIxMDQwZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/rmjq16i0UjxDHwZ0bg/giphy.gif" width="50" height="50">Connect With Me</h2> 
