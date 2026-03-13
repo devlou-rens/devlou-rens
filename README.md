@@ -84,9 +84,11 @@
 <div align="center">
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNsNzk5OW1ucGxzaDd5aWwxdXlobzd1MTJ5bmtoeGl1MG5wcWFmZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VEzBzSyEOKtXGuPIQw/giphy.gif" width="30">GitHub Stats</h2> 
 <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=devlou-rens&theme=radical&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA" width="100%" alt="Trophy" align="middle"/><br>
-   <img src="https://streak-stats.demolab.com?user=devlou-rens&theme=radical&hide_border=false&cache_seconds=0" alt="streak" width="49%" />
-  <img src="https://github-readme-stats-jet-one-69.vercel.app/api?username=devlou-rens&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=0" width="49%" /><br>
+   <!--
+   <img src="https://github-profile-trophy.vercel.app/?username=devlou-rens&theme=radical&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA" width="100%" alt="Trophy" align="middle"/><br> 
+   -->
+   <img src="https://streak-stats.demolab.com?user=devlou-rens&theme=radical&hide_border=false&cache_seconds=1800" alt="streak" width="49%" />
+  <img src="https://github-readme-stats-jet-one-69.vercel.app/api?username=devlou-rens&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" width="49%" /><br>
   <img src="https://github-readme-stats-jet-one-69.vercel.app/api/top-langs/?username=devlou-rens&layout=compact&theme=radical&count_private=true&cache_seconds=1800" alt="Top Language" />
 </p>
 <div>
