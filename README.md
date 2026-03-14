@@ -87,11 +87,10 @@
    <!--
    <img src="https://github-profile-trophy.vercel.app/?username=devlou-rens&theme=radical&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA" width="100%" alt="Trophy" align="middle"/><br> 
    -->
-   <img src="https://streak-stats.demolab.com?user=devlou-rens&theme=radical&hide_border=false&cache_seconds=1800" alt="streak" width="49%" />
+   <img src="https://streak-stats.demolab.com?user=devlou-rens&theme=radical&hide_border=false&cache_seconds=0" alt="streak" width="49%" />
   <img src="https://github-readme-stats-jet-one-69.vercel.app/api?username=devlou-rens&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" width="49%" /><br>
   <img src="https://github-readme-stats-jet-one-69.vercel.app/api/top-langs/?username=devlou-rens&layout=compact&theme=radical&count_private=true&cache_seconds=1800" alt="Top Language" />
 </p>
-<div>
  
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" alt="Separator gif" width="100%" height="30">
