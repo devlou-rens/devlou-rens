@@ -82,7 +82,7 @@
 </p>
 
 <div align="center">
-<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNsNzk5OW1ucGxzaDd5aWwxdXlobzd1MTJ5bmtoeGl1MG5wcWFmZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VEzBzSyEOKtXGuPIQw/giphy.gif" width="30">GitHub Stats</h2> 
+<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNsNzk5OW1ucGxzaDd5aWwxdXlobzd1MTJ5bmtoeGl1MG5wcWFmZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VEzBzSyEOKtXGuPIQw/giphy.gif" width="30">GitHub Stats</h2>  
 <p align="center">
    <!--
    <img src="https://github-profile-trophy.vercel.app/?username=devlou-rens&theme=radical&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA" width="100%" alt="Trophy" align="middle"/><br> 
