@@ -35,7 +35,7 @@
 <img align="right" src="https://media1.tenor.com/m/VEqKprzw7yAAAAAC/pink-cyber.gif" width="250"/>
 
 🎓 Computer Science Student at Sorsogon State University.<br><br>
-⚡ Currently Learning Web Development & Python. <br><br>
+⚡ Currently Learning Web Development & Python.<br><br>
 🎯 Balancing code, coffee, and student life <br><br>
 🌱 Exploring Full-Stack Development (Frontend + Backend) <br><br>
 🛠️ Familiar with HTML, CSS, Python, MySQL <br><br>
