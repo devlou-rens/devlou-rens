@@ -36,7 +36,7 @@
 
 🎓 Computer Science Student at Sorsogon State University.<br><br>
 ⚡ Currently Learning Web Development & Python. <br><br>
-🎯 Balancing code, coffee, and student life <br><br>
+🎯 Balancing code, coffee, and student life. <br><br>
 🌱 Exploring Full-Stack Development (Frontend + Backend) <br><br>
 🛠️ Familiar with HTML, CSS, Python, MySQL <br><br>
 🌐 Interested in Open Source, Tech Communities, and Freelancing <br><br>
