@@ -25,7 +25,7 @@
 </p>
 </p> 
 <div align="center">
-<h2><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWtmcjhpY3g5eWV2MWt3Y2U1Y2tvNDJqd3ozYWNubmlhbml4MTB5bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif" width="30">ABOUT ME</h2> 
+<h2><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWtmcjhpY3g5eWV2MWt3Y2U1Y2tvNDJqd3ozYWNubmlhbml4MTB5bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif" width="30"> ABOUT ME </h2> 
 </div>
 
 <p align="center">
@@ -41,7 +41,7 @@
 🛠️ Familiar with HTML, CSS, JavaScript, Python, MySQL. <br><br>
 🌐 Interested in Open Source, Tech Communities, and Freelancing. <br><br>
 🎨 I also enjoy designing with Canva, Figma, and also I'm a Video Editor. <br><br>
-🚀 Goal: To become a <em>Full-Stack Developer</em> and build impactful projects.  <br>
+🚀 Goal: To become a <em>Full-Stack Developer</em> and build impactful projects. <br>
 <br>
 <br>
 
