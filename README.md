@@ -25,7 +25,7 @@
 </p>
 </p> 
 <div align="center">
-<h2><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWtmcjhpY3g5eWV2MWt3Y2U1Y2tvNDJqd3ozYWNubmlhbml4MTB5bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif" width="30"> ABOUT ME </h2> 
+<h2><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWtmcjhpY3g5eWV2MWt3Y2U1Y2tvNDJqd3ozYWNubmlhbml4MTB5bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif" width="30">ABOUT ME</h2> 
 </div>
 
 <p align="center">
