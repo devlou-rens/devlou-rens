@@ -20,6 +20,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devlou-rens&label=Profile%20views&color=800080&style=for-the-badge" alt="Profile views" />
 </p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" alt="Separator gif" width="100%" height="30">
 </p>
