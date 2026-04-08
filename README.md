@@ -4,7 +4,7 @@
 
 <p align="center">        
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=E404F7&width=435&lines=Hello+World&#33+I'm+Lourens" alt="Typing SVG" /></a>
-</p> 
+</p>  
 
  
 <p align="center">
@@ -35,7 +35,7 @@
 
 <img align="right" src="https://media1.tenor.com/m/VEqKprzw7yAAAAAC/pink-cyber.gif" width="250"/>
 
-🎓 Computer Science Student at Sorsogon State University <br><br>
+🎓 Computer Science Student at Sorsogon State University. <br><br>
 ⚡ Currently Learning Web Development & Python.<br><br>
 🎯 Balancing code, coffee, and student life.<br><br>
 🌱 Exploring Full-Stack Development (Frontend + Backend).<br><br>
