@@ -9,7 +9,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" alt="Separator gif" width="100%" height="30">
 </p>
- 
+
+
 <h1 align="center">
    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3AycGN2cHd2dXI4MjlhajM5emp3bjJsdXk4N2E3dmZhb2ZpaHN1bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="60" alt="Coding GIF" />
   Future Web Developer | Learning, Coding, Creating
