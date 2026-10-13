@@ -73,7 +73,7 @@
 </div>
 <p align="center"> 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,django" />
+    <img src="https://skillicons.dev/icons?i=react,express,django" />
   </a>
 </p>
 
